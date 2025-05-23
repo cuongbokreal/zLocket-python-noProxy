@@ -59,7 +59,7 @@ curl -o proxy.txt "https://api.proxyscrape.com/v4/free-proxy-list/get?request=di
 ```bash
 python zLocket-Tool.py
 ```
-Nếu không được hãy thử lệnh `python3 zLocket-Tool.py`
+Nếu không được hãy thử lệnh `python3 zLocket-noProxy.py`
 - [x] Sài Được Trên Điện Thoại
 - [x] Dễ Dùng
 - [x] Tiện Nghi
