@@ -40,12 +40,12 @@ sudo apt install -y python3-pip
 ### ⬇️ Tải zLocket Tool
 
 ```bash
-git clone https://github.com/WusThanhDieu/zLocket-Tool-Pro.git
+git clone https://github.com/cuongbokreal/zLocket-python-noProxy.git
 ```
 > Lệnh cài môi trường và pip giống lệnh trên máy tính nên không cần hướng dẫn ở đây
 ### 📂 Đến Thư Mục Tool
 ```bash
-cd zLocket-Tool-Pro
+cd zLocket-python-noProxy
 ```
 ### 📂 Lấy Proxy Nếu Chưa Có (Mõi lần chạy tool thì CURL 1 lần nhé)
 ```bash
