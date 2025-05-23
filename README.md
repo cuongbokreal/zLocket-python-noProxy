@@ -9,7 +9,7 @@
 
 ## 💻 Hướng Dẫn Trên Máy Tính
 - [Tải xuống Python 3.12.2 nếu chưa có](https://www.python.org/downloads/release/python-3120/)<br/>
-> Tự gắn proxy sài nha ae hỗ trợ loại http/https, không gắn proxy là không sài được đâu :Đ <br/> <b>Edit: Bản này mình đã gắn proxy auto làm mới hộ mn, cứ thế là chạy không cần file proxy.txt nữa</b>
+> Tự gắn proxy sài nha ae hỗ trợ loại http/https, không gắn proxy là không sài được đâu :Đ <br/> <b>Edit:</b> Bản này mình đã gắn proxy <b style="color:red">auto làm mới</b> hộ mn, cứ thế là chạy không cần file proxy.txt nữa
 ### ⚙️ Cài Đặt Môi Trường
 
 ```bash
