@@ -1,9 +1,9 @@
 # ==================================
 #!/usr/bin/env python
 # coding: utf-8
-# Telegram: @wus_team
 # Version: 1.0.6 (Fixed)
-# Github: https://github.com/wusthanhdieu
+# Github: https://github.com/cuongbokreal
+# OG Github: https://github.com/wusthanhdieu
 # Description: zLocket Tool Open Source
 # ==================================
 import sys
