@@ -5,7 +5,7 @@
 
 > Đây là công cụ giúp bạn tăng bạn bè ảo hoàn loạt bằng cách tạo nhiều tài khoản rác và gửi yêu cầu kết bạn tới Locket được chỉ định.<br>
 Đừng nghĩ đây chỉ là tool spam kết bạn và chỉ cần tắt yêu cầu kết bạn hoặc tắt thông báo là xong, vì Locket Widget sử dụng api fetch user liên tục khi vào app, nếu quá nhiều yêu cầu kết bạn sẽ dẫn đến bị <b>Overload</b> cũng có thể bị lỗi mất hiển thị bạn bè cực kì khó chịu.<br>
-og source: https://github.com/WusThanhDieu/zLocket-Tool-Pro
+<b>og source:</b> https://github.com/WusThanhDieu/zLocket-Tool-Pro
 
 ## 💻 Hướng Dẫn Trên Máy Tính
 - [Tải xuống Python 3.12.2 nếu chưa có](https://www.python.org/downloads/release/python-3120/)<br/>
