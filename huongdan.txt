@@ -1,0 +1,16 @@
+Yêu cầu thư viện: pip install requests tqdm colorama pystyle urllib3
+
+Mở File start.bat để mở tool nhanh (PC):
+
+python zLocket-Tool.py
+
+python3 zLocket-Tool.py
+
+Yêu cầu phiên bản: Python 3.12
+
+Thông tin tool gốc: api.thanhdieu.com
+
+Gốc: Không nên treo tool, vì proxy xoay sẽ không thể tái tạo lại, nếu thấy spam chậm dần đi thì hãy đóng tool mở lại
+Bản này đã được auto renew proxy
+
+Spam nhanh hay chậm tuỳ vào proxy khoẻ (timeout, ping thấp), nếu bạn có proxy riêng hãy dán vào file proxy.txt
